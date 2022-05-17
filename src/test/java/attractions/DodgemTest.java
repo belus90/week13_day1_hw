@@ -42,8 +42,4 @@ public class DodgemTest {
         assertEquals(2.25,dodgems.priceFor(visitor2), 0.00);
     }
 
-    @Test
-    public void hasSomething(){
-
-    }
 }
